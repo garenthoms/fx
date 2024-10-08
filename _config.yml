@@ -19,7 +19,7 @@ baseurl_canonical: https://jasongrimes.github.io/jekyll-chapterbook
 # Set copyright: false to disable.
 copyright:
   start_year: 2023
-  url: /book.html
+  url: /book
 
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path: assets/gitbook/images/favicon.ico
@@ -32,21 +32,21 @@ favicon_path: assets/gitbook/images/favicon.ico
 # The book and contents pages need to be made manually.
 # All "url" variables should have a leading slash.
 bookcrumbs:
-  book_url: /book.html
-  contents_url: /contents.html
+  book_url: /book
+  contents_url: /contents
   book_icon: assets/gitbook/images/apple-touch-icon-precomposed-152.png
 
 # Links shown above the TOC in the sidebar
 # All "url" variables should have a leading slash.
 sidebar_nav_top:
 - label: Jekyll Chapterbook Theme
-  url: /index.html
+  url: /
 
 # Links shown below the TOC in the sidebar
 # All "url" variables should have a leading slash.
 sidebar_nav_bottom:
 - label: Draft outline
-  url: /outline.html
+  url: /outline
 - label: Fork at GitHub
   url: https://github.com/jasongrimes/jekyll-chapterbook/fork
 
@@ -54,9 +54,9 @@ sidebar_nav_bottom:
 # All "url" variables should have a leading slash.
 bottom_nav:
 - label: Home
-  url: /index.html
+  url: /
 - label: Book
-  url: /book.html
+  url: /book
 - label: GitHub
   url: https://github.com/jasongrimes/jekyll-chapterbook
 - label: Privacy
