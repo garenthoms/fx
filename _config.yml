@@ -1,5 +1,5 @@
 remote_theme: 
-permalink: pretty
+
 title: Forex Strategy
 longtitle: Stop Losing, Start Winning
 author: Garen Thoms
@@ -119,7 +119,7 @@ collections:
     output: true
   pages:
     output: true
-    permalink: /:slug:output_ext
+    permalink: /:slug:output_ext/
 
 
 defaults:
@@ -129,7 +129,7 @@ defaults:
       type: "chapters"
     values:
       layout: "chapter"
-      permalink: /:slug:output_ext
+      permalink: /:slug:output_ext/
 
 # Markdown render engine.
 markdown:         kramdown
