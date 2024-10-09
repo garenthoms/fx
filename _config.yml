@@ -59,7 +59,7 @@ bottom_nav:
 - label: Book
   url: /book
 - label: Privacy
-  url: /privacy.html
+  url: /privacy
 
 
 # Whether to show chapter headings as a table of contents at the top of each chapter page.
