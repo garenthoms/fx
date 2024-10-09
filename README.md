@@ -7,7 +7,7 @@ permalink: /
 
 
 Dear Readers
----
+-
 
    I was sitting at my desk staring at the screen, watching yet another trade go against me. My account balance was shrinking, and every time I tried to make a comeback, it seemed like the market had other plans. It felt like no matter what I did, I was on the wrong side of every trade. The more I tried to recover, the deeper the hole became. Sound familiar?
 
