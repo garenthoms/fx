@@ -129,7 +129,7 @@ defaults:
       type: "chapters"
     values:
       layout: "chapter"
-      permalink: /:slug:output_ext/
+      permalink: /:slug/
 
 # Markdown render engine.
 markdown:         kramdown
