@@ -40,7 +40,7 @@ bookcrumbs:
 # All "url" variables should have a leading slash.
 sidebar_nav_top:
 - label: Main Site
-    url: https://garenthoms.com
+    url: 
 - label: Garen Free Book
     url: /
 
