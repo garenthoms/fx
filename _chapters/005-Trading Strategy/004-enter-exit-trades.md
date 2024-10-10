@@ -1,7 +1,7 @@
 ---
-title: Test Draft
-slug: test2-draft
-abstract: coming soon.
+title: Enter And Exit Trades
+slug: enter-exit-trades
+abstract: Identifying the best points to enter and exit trades.
 ---
 
 ### Enter and Exit Trades
