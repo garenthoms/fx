@@ -30,6 +30,8 @@ The fundamental trend changed direction 7 times over 8 years.
 Observation:
 In the examples, notice the yellow line on the charts, which represents the 2MA. This line helps us track the long-term trend.
 
+---
+
 Part 2: Trading on Lower Time Frames
 Once we’ve identified the long-term trend, the next step is to trade on a lower time frame, specifically the 4-hour chart.
 
@@ -45,11 +47,16 @@ Weekly to Daily:
 Daily to 4-Hour:
 
 40MA (daily) × 6 (4-hour candles per day) = 240MA on the 4-hour chart.
+
+---
+
 Example: USD/JPY
 Let’s apply this to the USD/JPY:
 
 From 2014 to 2022, the USD/JPY experienced an 18-month run.
 Now, we’ll look at the weekly, daily, and 4-hour charts for further insights.
+
+---
 
 Part 3: The Trading Rule
 The trading rule is simple and effective:
@@ -58,8 +65,12 @@ BUY above the 240MA line.
 SELL below the 240MA line.
 This approach allows us to align with institutional investors, banks, and government actions while ignoring the noise that affects 99% of retail traders.
 
+---
+
 Why This Strategy Works
 By following this system, we’re not trading based on news or speculation. Instead, we’re aligning with the movements of institutional banks and governments, which truly drive the forex market. Let retail traders chase news while we follow the smart money.
+
+---
 
 A Personal Note
 I’ve personally invested over $15,000 to learn what I’m sharing with you today. While others might charge for this knowledge, I’m here to help you succeed.
