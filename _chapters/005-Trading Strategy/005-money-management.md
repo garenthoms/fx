@@ -1,7 +1,7 @@
 ---
 title: Money Management
 slug: money-management
-abstract: If you master money management, you'll be consistently making money in the market.
+abstract: If you master money management, you'll be consistently making money in the forex.
 ---
 
 
