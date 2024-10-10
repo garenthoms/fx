@@ -33,7 +33,7 @@ favicon_path: assets/gitbook/images/favicon.ico
 # All "url" variables should have a leading slash.
 bookcrumbs:
   book_url: /book
-  contents_url: /contents
+  contents_url: /
   book_icon: assets/gitbook/images/apple-touch-icon-precomposed-152.png
 
 # Links shown above the TOC in the sidebar
