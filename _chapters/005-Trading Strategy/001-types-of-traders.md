@@ -1,6 +1,6 @@
 ---
 title: Test draft
-slug: test2-draft
+slug: test1-draft
 abstract: coming soon.
 ---
 
