@@ -28,6 +28,9 @@ To filter out market noise and stay focused on the true trend, we use the **3rd 
 
 Take a look at the USD/JPY chart where we’ve marked the **Red & Blue Circles**. These circles highlight the start (red) and end (blue) of a long-term trend.
 
+![B&R Circles](https://raw.githubusercontent.com/garenthoms/fx/refs/heads/master/image/jpyee.png)
+
+
 **Correction:**
 
 - Where the chart says "enter," it should actually say start.
