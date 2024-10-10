@@ -6,9 +6,9 @@ abstract: Discover How to Grow and Manage Your trading Account Whether Big or Sm
 
 
 ---
-```
+
 You must understand that the Forex Market isn't moved by traders or investors. It moves by countries and companies Eg: at any time Company A from Country Z will exchange money with Company B in Country X.
-```
+
 ---
 
 
