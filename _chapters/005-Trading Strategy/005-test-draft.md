@@ -1,3 +1,10 @@
+---
+title: Test Draft
+slug: test4-draft
+abstract: coming soon.
+---
+
+
 Part 4: Money Management – The Key to Profitable Trading
 This section is perhaps the most critical of all. If you master money management, you'll be consistently making money in the market. Here, I’ll outline simple but powerful rules to guide you through the process.
 
