@@ -54,13 +54,12 @@ sidebar_nav_bottom:
 # Navigation shown at the bottom of the page
 # All "url" variables should have a leading slash.
 bottom_nav:
-  enabled: false
-- label: Home
-  url: /
-- label: Blog
-  url: /blog
-- label: Privacy
-  url: /privacy
+- label: 
+  url: 
+- label:
+  url: 
+- label: 
+  url:
 
 
 # Whether to show chapter headings as a table of contents at the top of each chapter page.
