@@ -54,6 +54,7 @@ sidebar_nav_bottom:
 # Navigation shown at the bottom of the page
 # All "url" variables should have a leading slash.
 bottom_nav:
+  enabled: false
 - label: Home
   url: /
 - label: Blog
