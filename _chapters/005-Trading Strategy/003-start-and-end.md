@@ -3,7 +3,7 @@ title: Identify Start Or End
 slug: start-and-end
 abstract: We need to focus on pinpointing the exact start or end of the trend.
 ---
-### Start and End
+
 **Part 2: Identifying the Exact Start and End of Long-Term Movements**
 
 The second part of the system focuses on pinpointing the **exact start or end** of a long-term currency movement.
