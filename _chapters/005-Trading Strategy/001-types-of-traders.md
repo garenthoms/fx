@@ -6,7 +6,7 @@ abstract: Some traders focus on chart patterns while others analyze economic dat
 
 I have come to understand that there are two types of traders. technical and fundamental 
 
-## TECHNICAL TRADERS 
+## Technical Traders
 
 These are traders who use indicators to make decisions about trades, such as when to exit or enter, there are thousands of different kinds of indicators but they usually fit into two groups. 
 
@@ -14,7 +14,7 @@ These are traders who use indicators to make decisions about trades, such as whe
 
 - 2: indicators that don't move and are static that are based on a previous high or low like fibs or pivot, trend lines, support and resistance lines, etc. 
 
-## FUNDAMENTAL TRADERS 
+## Fundamental Traders 
 
 These are traders who use events to make decisions to trade with a short-term or long-term. 
 
