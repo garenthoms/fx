@@ -10,17 +10,17 @@ I have come to understand that there are two types of traders. technical and fun
 
 These are traders who use indicators to make decisions about trades, such as when to exit or enter, there are thousands of different kinds of indicators but they usually fit into two groups. 
 
-1: indicators that are based on moving averages with some math formula 
+- 1: indicators that are based on moving averages with some math formula 
 
-2: indicators that don't move and are static that are based on a previous high or low like fibs or pivot, trend lines, support and resistance lines, etc. 
+- 2: indicators that don't move and are static that are based on a previous high or low like fibs or pivot, trend lines, support and resistance lines, etc. 
 
 ## FUNDAMENTAL TRADERS 
 
 These are traders who use events to make decisions to trade with a short-term or long-term. 
 
-1: Short Term Events like if a country increase/decrease interest rates that will usually move a currency pair anywhere from 3 days to several weeks depending on how big the rate change was. 
+- 1: Short Term Events like if a country increase/decrease interest rates that will usually move a currency pair anywhere from 3 days to several weeks depending on how big the rate change was. 
 
-2: Lond Term Events like govt policy that will move a currency pair for months or even years. 
+- 2: Lond Term Events like govt policy that will move a currency pair for months or even years. 
 
 What im going to teach is to use both technical analysis and fundamental. 
 
