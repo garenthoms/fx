@@ -1,3 +1,11 @@
+---
+title: Test Draft
+slug: test-draft
+abstract: coming soon.
+---
+
+
+
 Part 5: Discovering What Type of Trader You Want to Be
 The fifth part of the system is figuring out what type of trader you want to be. This is determined by your capital, the risk you’re willing to take, and how much time you can spend monitoring the market.
 
