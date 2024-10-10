@@ -1,7 +1,7 @@
 ---
-title: Enter And Exit Trades
+title: Identify Entry and Exit Points
 slug: enter-exit-trades
-abstract: Identifying the best points to enter and exit trades.
+abstract: We need to know the best points to enter and exit the trades.
 ---
 
 ### Enter and Exit Trades
