@@ -26,12 +26,12 @@ Let’s look at two major currency pairs and how their fundamental trends change
 - **USD/JPY (2014-2022):**
     The fundamental trend changed direction **6 times** over 8 years.
 
-  ![USD/JPY (2014-2022)](/images/jpy.png)
+  ![USD/JPY (2014-2022)](https://raw.githubusercontent.com/garenthoms/fx/refs/heads/master/image/jpy.png)
 
 - **GBP/USD (2014-2022):**
     The fundamental trend changed direction **7 times over** 8 years.
 
-  ![GBP/USD (2014-2022).](/images/gbp.png)
+  ![GBP/USD (2014-2022)](https://raw.githubusercontent.com/garenthoms/fx/refs/heads/master/image/gbp.png)
 
 **Observation:**
 
