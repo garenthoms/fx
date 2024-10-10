@@ -63,6 +63,18 @@ Let’s apply this to the USD/JPY:
   
 Now, we’ll look at the **weekly**, **daily**, and **4-hour charts** for further insights.
 
+
+![weekly](https://raw.githubusercontent.com/garenthoms/fx/refs/heads/master/image/jpyw.png)
+**weekly charts**
+
+
+![daily](https://raw.githubusercontent.com/garenthoms/fx/refs/heads/master/image/jpyd.png)
+**daily charts**
+
+
+![4-hour](https://raw.githubusercontent.com/garenthoms/fx/refs/heads/master/image/jpy4.png)
+**4-hour charts**
+
 ---
 ### Trading Rule
 **Part 3: The Trading Rule**
