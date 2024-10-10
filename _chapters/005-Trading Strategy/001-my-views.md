@@ -1,7 +1,7 @@
 ---
-title: Test draft
-slug: test1-draft
-abstract: coming soon.
+title: My Views And Understanding
+slug: my-views
+abstract: Let the other 99% of traders who don't understand forex pay me.
 ---
 
 I have come to understand that there are two types of traders. technical and fundamental 
