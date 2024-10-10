@@ -1,7 +1,7 @@
 ---
-title: Test Draft
-slug: test4-draft
-abstract: coming soon.
+title: Money Management
+slug: money-management
+abstract: If you master money management, you'll be consistently making money in the market.
 ---
 
 
