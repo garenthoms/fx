@@ -1,7 +1,7 @@
 ---
-title: Put It All Together
-slug: the-system
-abstract: Start making money from trading.
+title: Test Draft
+slug: test3-draft
+abstract: coming soon.
 ---
 ### Fundamental Trend
 **Part 1: Identifying the Long-Term Fundamental Trend**
