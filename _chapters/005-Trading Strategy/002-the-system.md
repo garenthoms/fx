@@ -3,7 +3,7 @@ title: Put It All Together
 slug: the-system
 abstract: Start making money from trading.
 ---
-
+## Fundamental Trend
 **Part 1: Identifying the Long-Term Fundamental Trend**
 
 The first step in the system is to determine the **long-term fundamental trend** for any currency. This trend is crucial because it helps us understand when major movements began and ended.
@@ -34,7 +34,7 @@ Let’s look at two major currency pairs and how their fundamental trends change
 In the examples, notice the **yellow line** on the charts, which represents the 2MA. This line helps us track the long-term trend.
 
 ---
-
+## Lower Time Frames
 **Part 2: Trading on Lower Time Frames**
 
 Once we’ve identified the long-term trend, the next step is to **trade on a lower time frame**, specifically the **4-hour chart**.
@@ -60,7 +60,7 @@ Let’s apply this to the USD/JPY:
 Now, we’ll look at the **weekly**, **daily**, and **4-hour charts** for further insights.
 
 ---
-
+## Trading Rule
 **Part 3: The Trading Rule**
 
 The trading rule is simple and effective:
