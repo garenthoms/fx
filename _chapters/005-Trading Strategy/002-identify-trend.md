@@ -1,6 +1,6 @@
 ---
-title: Identifying Trend
-slug: identifying-trend
+title: Identify Trend
+slug: identify-trend
 abstract: We need to determine the long-term fundamental trend for any currency.
 ---
 ### Fundamental Trend
