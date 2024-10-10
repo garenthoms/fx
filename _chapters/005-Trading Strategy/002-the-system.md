@@ -1,20 +1,21 @@
----
+88---
 title: Put It All Together
 slug: the-system
 abstract: Start making money from trading.
 ---
-Part 1: Identifying the Long-Term Fundamental Trend
 
-The first step in the system is to determine the long-term fundamental trend for any currency. This trend is crucial because it helps us understand when major movements began and ended.
+**Part 1: Identifying the Long-Term Fundamental Trend**
 
-Key Point:
-The long-term movement of a currency is often driven by government policies. Once you know what to look for, these trends become easy to spot.
+The first step in the system is to determine the **long-term fundamental trend** for any currency. This trend is crucial because it helps us understand when major movements began and ended.
 
-How to Identify the Long-Term Trend:
-Secret 1: You can only find the long-term trend on the monthly chart, and we’ll use technical analysis to spot it.
+**Key Point:**
+- The long-term movement of a currency is often driven by **government policies**. Once you know what to look for, these trends become easy to spot.
 
-Technical Indicator:
-We use a 2-period Moving Average (2MA) set to open on the monthly chart. This gives us a clear visual of the trend.
+**How to Identify the Long-Term Trend:**
+- **Secret 1:** You can only find the long-term trend on the **monthly chart**, and we’ll use **technical analysis** to spot it.
+
+**Technical Indicator:**
+- We use a **2-period Moving Average (2MA)** set to **open** on the **monthly chart**. This gives us a clear visual of the trend.
 
 ---
 
