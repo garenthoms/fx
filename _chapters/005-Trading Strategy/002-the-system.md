@@ -19,35 +19,32 @@ The first step in the system is to determine the **long-term fundamental trend**
 
 ---
 
-Example of Long-Term Trends in Major Currencies
+**Example of Long-Term Trends in Major Currencies**
 Let’s look at two major currency pairs and how their fundamental trends changed over time:
 
-USD/JPY (2014-2022):
-The fundamental trend changed direction 6 times over 8 years.
+- **USD/JPY (2014-2022):**
+    The fundamental trend changed direction **6 times** over 8 years.
 
-GBP/USD (2014-2022):
-The fundamental trend changed direction 7 times over 8 years.
+- **GBP/USD (2014-2022):**
+    The fundamental trend changed direction **7 times over** 8 years.
 
-Observation:
-In the examples, notice the yellow line on the charts, which represents the 2MA. This line helps us track the long-term trend.
+**Observation:**
+In the examples, notice the **yellow line** on the charts, which represents the 2MA. This line helps us track the long-term trend.
 
 ---
 
-Part 2: Trading on Lower Time Frames
-Once we’ve identified the long-term trend, the next step is to trade on a lower time frame, specifically the 4-hour chart.
+**Part 2: Trading on Lower Time Frames**
+Once we’ve identified the long-term trend, the next step is to **trade on a lower time frame**, specifically the **4-hour chart**.
 
-Mathematical Breakdown:
+**Mathematical Breakdown:**
 To convert the 2MA on the monthly chart to lower time frames, we use basic math:
 
-Monthly to Weekly:
-
-2MA (monthly) × 4 weeks = 8MA on the weekly chart.
-Weekly to Daily:
-
-8MA (weekly) × 5 days = 40MA on the daily chart.
-Daily to 4-Hour:
-
-40MA (daily) × 6 (4-hour candles per day) = 240MA on the 4-hour chart.
+1. **Monthly to Weekly:**
+  - 2MA (monthly) × 4 weeks = **8MA on the weekly chart**.
+2. **Weekly to Daily:**
+  - 8MA (weekly) × 5 days = **40MA on the daily chart**.
+3. **Daily to 4-Hour:**
+  - 40MA (daily) × 6 (4-hour candles per day) = **240MA on the 4-hour chart**.
 
 ---
 
