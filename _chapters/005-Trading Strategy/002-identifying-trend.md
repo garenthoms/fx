@@ -1,7 +1,7 @@
 ---
-title: Test Draft
-slug: test3-draft
-abstract: coming soon.
+title: Identifying Trend
+slug: identifying-trend
+abstract: We need to determine the long-term fundamental trend for any currency.
 ---
 ### Fundamental Trend
 **Part 1: Identifying the Long-Term Fundamental Trend**
