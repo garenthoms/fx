@@ -1,7 +1,7 @@
 ---
-title: Test Draft
-slug: test-draft
-abstract: coming soon.
+title: When It Begins and Ends
+slug: start-and-end
+abstract: We need to focus on pinpointing the exact start or end.
 ---
 ### Start and End
 **Part 2: Identifying the Exact Start and End of Long-Term Movements**
