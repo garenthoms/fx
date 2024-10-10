@@ -4,6 +4,13 @@ title: From Losing To Winning
 permalink: /
 ---
 
+{% include chapterbook-toc.html %}
+
+---
+```
+This file is located at: {{ page.path }}
+```
+---
 
 
 Dear Readers
