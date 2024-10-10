@@ -1,4 +1,4 @@
-88---
+---
 title: Put It All Together
 slug: the-system
 abstract: Start making money from trading.
