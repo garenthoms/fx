@@ -18,20 +18,8 @@ These are traders who use indicators to make decisions about trades, such as whe
 
 These are traders who use events to make decisions to trade with a short-term or long-term. 
 
-- 1: Short Term Events like if a country increase/decrease interest rates that will usually move a currency pair anywhere from 3 days to several weeks depending on how big the rate change was. 
+- 1: Short Term Events like if a country increases/decreases interest rates that will usually move a currency pair anywhere from 3 days to several weeks depending on how big the rate change was. 
 
 - 2: Lond Term Events like govt policy that will move a currency pair for months or even years. 
 
-What im going to teach is to use both technical analysis and fundamental. 
-
-We will use a very simple indicator to determine the long term fundamental trend. 
-
-That way we dont need to know the information that is actually driving this long-term trend. 
-
-We will spot it with technical analysis and adjust our trading accordingly. 
-
-And let the other 99% of traders that dont understand forex pay us.. lol 
-
-Knowledgeable is a key thing to my trading system. 
-
-Because i know the short and long term fundamental on any currency pair. 
+What I'm going to teach is to use both technical analysis and fundamentals. We will use a very simple indicator to determine the long-term fundamental trend. That way we don't need to know the information that is actually driving this long-term trend. We will spot it with technical analysis and adjust our trading accordingly. And let the other 99% of traders that don't understand forex pay us.. lol Knowledgeable is a key thing to my trading system. Because I know the short and long-term fundamentals of any currency pair. 
