@@ -41,7 +41,7 @@ bookcrumbs:
 sidebar_nav_top:
 - label: Main Site
   url: https://www.garenthoms.com
-- label: Home
+- label: Table of Contents
   url: /
 
 # Links shown below the TOC in the sidebar
