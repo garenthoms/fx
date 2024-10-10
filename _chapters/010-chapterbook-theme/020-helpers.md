@@ -91,7 +91,7 @@ See {% include chapter-link.html slug="variables" %} for details.
 
 
 ---
-```
+
 This file is located at: {{ page.path }}
-```
+
 ---
