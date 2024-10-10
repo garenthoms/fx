@@ -19,7 +19,7 @@ baseurl_canonical: https://www.garenthoms.com/blog
 # Set copyright: false to disable.
 copyright:
   start_year: 2023
-  url: /post
+  url: /book
 
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path: assets/gitbook/images/favicon.ico
@@ -32,7 +32,7 @@ favicon_path: assets/gitbook/images/favicon.ico
 # The book and contents pages need to be made manually.
 # All "url" variables should have a leading slash.
 bookcrumbs:
-  book_url: /post
+  book_url: /book
   contents_url: /contents
   book_icon: assets/gitbook/images/apple-touch-icon-precomposed-152.png
 
