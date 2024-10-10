@@ -10,7 +10,7 @@ description: >
 # If baseurl_canonical is set, 
 # a <link rel="canonical"> tag will be added to the head of each page,
 # to disambiguate links for search engines.
-baseurl_canonical: https://www.garenthoms.com/books
+baseurl_canonical: https://www.garenthoms.com/blog
 
 # A copyright notice will be shown at the bottom of each page,
 # with the current year and the author name.
@@ -19,7 +19,7 @@ baseurl_canonical: https://www.garenthoms.com/books
 # Set copyright: false to disable.
 copyright:
   start_year: 2023
-  url: /book
+  url: /post
 
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path: assets/gitbook/images/favicon.ico
@@ -32,7 +32,7 @@ favicon_path: assets/gitbook/images/favicon.ico
 # The book and contents pages need to be made manually.
 # All "url" variables should have a leading slash.
 bookcrumbs:
-  book_url: /book
+  book_url: /post
   contents_url: /contents
   book_icon: assets/gitbook/images/apple-touch-icon-precomposed-152.png
 
@@ -41,7 +41,7 @@ bookcrumbs:
 sidebar_nav_top:
 - label: Main Site
   url: https://www.garenthoms.com
-- label: Garen's Free Book
+- label: Home
   url: /
 
 # Links shown below the TOC in the sidebar
@@ -56,8 +56,8 @@ sidebar_nav_bottom:
 bottom_nav:
 - label: Home
   url: /
-- label: Book
-  url: /book
+- label: Blog
+  url: /blog
 - label: Privacy
   url: /privacy
 
