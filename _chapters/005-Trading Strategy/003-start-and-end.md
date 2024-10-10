@@ -1,5 +1,5 @@
 ---
-title: When It Begins and Ends
+title: Identifying Start Or End
 slug: start-and-end
 abstract: We need to focus on pinpointing the exact start or end.
 ---
