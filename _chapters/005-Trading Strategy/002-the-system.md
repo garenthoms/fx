@@ -3,70 +3,65 @@ title: Put It All Together
 slug: the-system
 abstract: Start making money from trading.
 ---
-The first part to the system is to determine the long term fundamental trend on any currency. 
+Part 1: Identifying the Long-Term Fundamental Trend
 
-We want to know when it started and when it ended 
+The first step in the system is to determine the long-term fundamental trend for any currency. This trend is crucial because it helps us understand when major movements began and ended.
 
-(And remember that the long term movement of a currency usually caused by government policy and can be easily seen if you know what you are looking for.) 
+Key Point:
+The long-term movement of a currency is often driven by government policies. Once you know what to look for, these trends become easy to spot.
 
-You might ask the question. 
+How to Identify the Long-Term Trend:
+Secret 1: You can only find the long-term trend on the monthly chart, and we’ll use technical analysis to spot it.
 
-How do we find that out? 
+Technical Indicator:
+We use a 2-period Moving Average (2MA) set to open on the monthly chart. This gives us a clear visual of the trend.
 
-Secret 1: You can only find it on the monthly chart. This is were we'll use technical analysis. 
+---
 
-   indicator (moving average). 
+Example of Long-Term Trends in Major Currencies
+Let’s look at two major currency pairs and how their fundamental trends changed over time:
 
-Its a 2MA open on a monthly chart. 
+USD/JPY (2014-2022):
+The fundamental trend changed direction 6 times over 8 years.
 
-Let me show you some example from some major currency.. 
+GBP/USD (2014-2022):
+The fundamental trend changed direction 7 times over 8 years.
 
-I want you to notice the yellow line in each picture. 
+Observation:
+In the examples, notice the yellow line on the charts, which represents the 2MA. This line helps us track the long-term trend.
 
-USDJPY
-From 2014 till 2022 
+Part 2: Trading on Lower Time Frames
+Once we’ve identified the long-term trend, the next step is to trade on a lower time frame, specifically the 4-hour chart.
 
-usdjpy fundamental change direction 6 times in 8 years 
+Mathematical Breakdown:
+To convert the 2MA on the monthly chart to lower time frames, we use basic math:
 
-GBPUSD
-From 2014 till 2022 
+Monthly to Weekly:
 
-Gbpusd fundamental change direction 7 times in 8 years 
+2MA (monthly) × 4 weeks = 8MA on the weekly chart.
+Weekly to Daily:
 
-The beauty of knowing this is to trade it on a lower time frame. 
+8MA (weekly) × 5 days = 40MA on the daily chart.
+Daily to 4-Hour:
 
-Time frame we going to look on is 4hour chart 
+40MA (daily) × 6 (4-hour candles per day) = 240MA on the 4-hour chart.
+Example: USD/JPY
+Let’s apply this to the USD/JPY:
 
-Secret 2: You will need some basic maths that we all learn in school 
+From 2014 to 2022, the USD/JPY experienced an 18-month run.
+Now, we’ll look at the weekly, daily, and 4-hour charts for further insights.
 
-And it goes like this. 
+Part 3: The Trading Rule
+The trading rule is simple and effective:
 
-    2MA monthly X 4 weeks in a month = to 8MA 
+BUY above the 240MA line.
+SELL below the 240MA line.
+This approach allows us to align with institutional investors, banks, and government actions while ignoring the noise that affects 99% of retail traders.
 
-So the 2MA on a monthly chart is now 8MA on a Weekly chart 
+Why This Strategy Works
+By following this system, we’re not trading based on news or speculation. Instead, we’re aligning with the movements of institutional banks and governments, which truly drive the forex market. Let retail traders chase news while we follow the smart money.
 
-8MA X 5days in a week = to 40MA 
+A Personal Note
+I’ve personally invested over $15,000 to learn what I’m sharing with you today. While others might charge for this knowledge, I’m here to help you succeed.
 
-So the 2MA on a monthly chart is now 40MA on a daily chart 
-
-40MA X 6-4hr candles in a day = to 240MA 
-
-So the 2MA on the monthly chart is now 240MA on a 4hr chart.. 
-
-So now im going to show you weekly, Daily and the 4 Hour chart 
-
-We going to use USDJPY 
-
-It add a 18 months run.. 
-
-Weekly chart
-Daily chart
-4 Hour chart 
-
-Now the trading rule is very simple, BUY above the 240MA line and SELL below the 240MA 
-
-This way we keep track of the institutional banks and gov't and let the other 99% of retail Traders watch the news and lose all their funds.. 
-
-I have paid 15kusd to learn what im telling you.. i could have charge for it but im here to help.. 
-
-And there is alot more to the system.. this is just the first part.
+And remember, this is just the first part of the system—there’s a lot more to come!
