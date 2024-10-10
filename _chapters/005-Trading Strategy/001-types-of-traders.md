@@ -1,7 +1,7 @@
 ---
-title: Types Of Traders
-slug: types-of-traders
-abstract: Some traders focus on chart patterns while others analyze economic data.
+title: Test draft
+slug: test2-draft
+abstract: coming soon.
 ---
 
 I have come to understand that there are two types of traders. technical and fundamental 
