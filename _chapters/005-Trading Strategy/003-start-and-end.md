@@ -1,5 +1,5 @@
 ---
-title: Identifying Start Or End
+title: Identify Start Or End
 slug: start-and-end
 abstract: We need to focus on pinpointing the exact start or end of the trend.
 ---
