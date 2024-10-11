@@ -47,8 +47,8 @@ sidebar_nav_top:
 # Links shown below the TOC in the sidebar
 # All "url" variables should have a leading slash.
 sidebar_nav_bottom:
-- label: Draft outline
-  url: /outline
+- label: 
+  url: 
 
 
 # Navigation shown at the bottom of the page
