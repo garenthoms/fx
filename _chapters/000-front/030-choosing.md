@@ -1,6 +1,6 @@
 ---
-title: Introduction
-slug: introduction
+title: Choosing The Right Broker
+slug: choosing
 abstract: Choosing the right broker is crucial to your success.
 ---
 
