@@ -37,23 +37,23 @@ When selecting a forex broker, it’s essential to understand that there are two
 
 1. Stop Hunting:
 
-  - When the live market is near your stop-loss, they send a fake spike to your platform, hitting your stop-loss and closing your trade. They’ll even manually adjust the chart to make the spike look legitimate.
+    - When the live market is near your stop-loss, they send a fake spike to your platform, hitting your stop-loss and closing your trade. They’ll even manually adjust the chart to make the spike look legitimate.
 
 2. Widening Spreads:
 
-  - When you're about to place a trade or during periods of market volatility, they increase the spread, making it harder for you to profit.
+    - When you're about to place a trade or during periods of market volatility, they increase the spread, making it harder for you to profit.
 
 3. Slippage:
 
-  - They delay executing your trade until the market moves in an unfavorable direction, causing you to lose more or shave pips off your profits.
+    - They delay executing your trade until the market moves in an unfavorable direction, causing you to lose more or shave pips off your profits.
 
 4. 'Off-Quotes' Errors:
 
-  - During fast-moving markets, you may experience errors when trying to enter or exit trades, often resulting in missed opportunities.
+    - During fast-moving markets, you may experience errors when trying to enter or exit trades, often resulting in missed opportunities.
 
 5. Client Profiling:
 
-  - Market makers profile clients into A-Book (for consistent winners) and B-Book (for those who lose often). They provide two different price feeds and move traders between the two without their knowledge.
+    - Market makers profile clients into A-Book (for consistent winners) and B-Book (for those who lose often). They provide two different price feeds and move traders between the two without their knowledge.
 
 **The Worst Trick:**
 
