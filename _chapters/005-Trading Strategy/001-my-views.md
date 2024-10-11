@@ -6,7 +6,7 @@ abstract: Let the other 99% of traders who don't understand forex pay me.
 
 I have come to understand that there are two types of traders. technical and fundamental 
 
-## Technical Traders
+**Technical Traders**
 
 These are traders who use indicators to make decisions about trades, such as when to exit or enter, there are thousands of different kinds of indicators but they usually fit into two groups. 
 
@@ -16,7 +16,7 @@ These are traders who use indicators to make decisions about trades, such as whe
 
 ---
 
-## Fundamental Traders 
+**Fundamental Traders** 
 
 These are traders who use events to make decisions to trade with a short-term or long-term. 
 
