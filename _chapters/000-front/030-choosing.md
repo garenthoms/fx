@@ -26,6 +26,7 @@ When selecting a forex broker, it’s essential to understand that there are two
     - **Commission-Based:** They earn money through commissions on your trades, not from your losses.
     - **Narrower Spreads:** A-Book brokers offer tighter spreads compared to other brokers.
     - **Aligned Interests:** As your account grows and you trade more, they earn higher commissions, so they have a vested interest in your success.
+    - **Trade Receipt:** That reveals all aspects of the trade such as the fill price, execution speed, slippage and importantly, which liquidity provider filled the trade.
 
 ---
 
