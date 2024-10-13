@@ -6,6 +6,12 @@ abstract: Choosing the right broker is crucial to your success.
 
 **Choosing the Right Broker**
 
+One of the first mistakes many traders make when getting into trading is choosing the wrong broker. It often seems like a small decision at the start, but it can make or break your trading journey. Many traders, including myself, don't realize the impact of this choice until things start going wrong. By the time you notice the problems, such as slippage, unfair spreads, or even stop hunting, it’s often too late, and you've already lost a significant amount of money.
+
+It's important to do thorough research before committing to one. I'll help you understand the differences between brokers and how to pick the one that truly supports your trading goals.
+
+
+---
 When selecting a forex broker, it’s essential to understand that there are two main types of brokers. Choosing the right one is critical because one of them often uses **deceptive practices** to take advantage of traders and their deposits. Here's how they differ:
 
 1. **Broker Type 1: A-Book Broker (Real Broker)**
