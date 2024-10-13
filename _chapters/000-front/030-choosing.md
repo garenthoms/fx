@@ -30,7 +30,7 @@ When selecting a forex broker, it’s essential to understand that there are two
 
 ---
 
-2. **Broker Type 2: A-Book & B-Book Broker (Market Makers**
+2. **Broker Type 2: A-Book & B-Book Broker (Market Makers)**
 
    Market makers operate with both **A-Book** and **B-Book** systems. They only send your trades to liquidity providers if you’re **consistently profitable**. Otherwise, they use **B-Book** tactics, which often involve **conflicts of interest** designed to make you lose money.
 
